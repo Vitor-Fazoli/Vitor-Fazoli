@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📝 I regularly write articles on [@vhfazoli](@vhfazoli)
+- 📝 I regularly write articles on [@vhfazoli](https://medium.com/@vhfazoli)
 
 - 📫 How to reach me **vhfazoli@gmail.com**
 
