@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitor-fazoli&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-fazoli" /> </p>
 
-- 🔭 I’m currently working on [Unimed Leste Paulista]([https://www.unimedlestepaulista.com.br/])
+- 🔭 I’m currently working on [Unimed Leste Paulista]([https://www.unimedlestepaulista.com.br])
 
 - 🌱 I’m currently learning **Electron**
 
