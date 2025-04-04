@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Unimed Leste Paulista]([https://www.unimedlestepaulista.com.br])
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **Svelte**
 
 - 📝 I regularly write articles on [@vhfazoli](https://medium.com/@vhfazoli)
 
